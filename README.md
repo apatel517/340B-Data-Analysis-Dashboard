@@ -3,17 +3,19 @@
 An interactive dashboard providing insights into the 340B program. The dataset is generated programmatically using Python libraries **Faker** and **Pandas**, mimicking realistic trends in drug utilization, patient demographics, financial savings, and more.
 
 ---
+## 📸 Dashboard Preview  
+Here’s a preview of the **340B-Data-Analysis-Dashboard**:  
+
+![340B Data Analysis Dashboard](PowerBi/Screenshot%202025-02-11%20162901.png)
+
 
 ## Table of Contents
 
 1. [Features](#features)  
 2. [Data Source](#data-source)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Technologies Used](#technologies-used)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
-8. [Contact](#contact)  
+3. [Installation](#installation)   
+
+
 
 ---
 
